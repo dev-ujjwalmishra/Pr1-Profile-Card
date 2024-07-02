@@ -1,2 +1,4 @@
 # Profile_Card
-Simple HTML CSS practice project.
+Simple HTML CSS Practice Project.
+Contains an image and some data to represent a card.
+Happy Coading 😍😍
